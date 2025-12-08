@@ -6,7 +6,7 @@
 ## 🚀  DevOps Engineer at WV Automations Pvt.Ltd | Cloud | Automation | Kubernetes | Terraform  | CI-CD
 ---
 
-I’m a passionate **DevOps & Cloud Engineer** with 5+ years of IT experience, specializing in
+I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD automation specializing in
 - ⚡ Building scalable, secure, and highly available cloud platforms  
 - 🔄 Automating infrastructure with **Terraform & Ansible**  
 - 🐳 Orchestrating containerized microservices with **Kubernetes (EKS)** & Helm  
