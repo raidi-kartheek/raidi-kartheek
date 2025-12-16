@@ -44,22 +44,9 @@ I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD autom
 ---
 
 # 💼 Work Highlights
-### 🏢  WV Automations Pvt.Ltd – Client Engagements  
+### 🏢  WV Automations Pvt.Ltd  
 
- **Veeva Systems** 
-- Built CI/CD pipelines with **Jenkins, GitHub Actions, Helm** for microservices  
-- Automated provisioning with **Terraform & Ansible**  
-- Implemented observability using **Prometheus & Grafana**   
-
- **Verizon**
-- Designed AWS-native solutions with EKS, RDS, and Terraform modules.  
-- Led Helm-based Kubernetes deployments with blue/green strategies ensuring zero downtime.  
-- Enforced DevSecOps with SonarQube, Veracode, Metasploit, and AWS ECR scanning.  
-
- **CIG**
-- Migrated workloads using **Ansible automation**  
-- Designed secure **VPC, IAM, and networking**  
-- Reduced release cycles by **30%** with CI/CD automation  
+Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud infrastructure, CI/CD automation, Kubernetes EKS, Terraform, Docker, and Linux. Strong expertise in building scalable, secure, and production ready cloud environments using Infrastructure as Code, reusable Terraform modules, Jenkins pipelines, and automated configuration management with Ansible. Skilled in optimizing Kubernetes workloads, implementing modern deployment strategies (Blue/Green, Canary), enhancing observability with Prometheus, Grafana and ensuring release reliability through DevSecOps practices. with CI/CD automation  
 
 ----
 
