@@ -14,7 +14,7 @@ I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD autom
 - 🔐 Enforcing **DevSecOps practices** for security, scalability, and compliance  
 
 ---
-## 🛠️ Tech Toolbox  
+
 
 <img width="1071" height="687" alt="image" src="https://github.com/user-attachments/assets/8acd19bc-8ffa-41ef-a2a2-0e3024fb423a" />
 
