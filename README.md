@@ -16,16 +16,8 @@ I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD autom
 ---
 ## 🛠️ Tech Toolbox  
 
-- **Cloud**: AWS  
-- **OS**: Linux, Windows  
-- **CI/CD**: GitHub Actions, Jenkins  
-- **SCM**: GitHub  
-- **IaC**: Terraform, CloudFormation  
-- **Containers**: Docker, Kubernetes  
-- **Security & Scanning**: SonarQube  
-- **Artifactory**: Nexus, JFrog  
-- **Scripting**: Bash, Shell, Python  
-- **Monitoring**: Prometheus, Grafana, CloudWatch  
+<img width="1071" height="687" alt="image" src="https://github.com/user-attachments/assets/8acd19bc-8ffa-41ef-a2a2-0e3024fb423a" />
+
 
 
 
