@@ -21,9 +21,6 @@ I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD autom
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=900&lines=☁️+AWS+%7C+🧱+Terraform+%7C+☸️+Kubernetes;🐳+Docker+%7C+⚙️+Jenkins+%7C+🧩+Ansible;🐧+Linux+%7C+🔧+Git+%7C+🐙+GitHub" />
-</p>
 
 ---
 
@@ -51,6 +48,9 @@ Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud i
 </p>
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=900&lines=☁️+AWS+%7C+🧱+Terraform+%7C+☸️+Kubernetes;🐳+Docker+%7C+⚙️+Jenkins+%7C+🧩+Ansible;🐧+Linux+%7C+🔧+Git+%7C+🐙+GitHub" />
+</p>
 
 
 
