@@ -83,6 +83,15 @@ Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud i
 </p>
 
 
+## ⚙️ Tech Stack
+<!-- your typing + icons here -->
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raidi-Kartheek&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+
 --- 
 
 ## ✍️ Blog Posts (Medium)  
