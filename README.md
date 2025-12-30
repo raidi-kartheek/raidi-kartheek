@@ -56,6 +56,33 @@ Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud i
 
 <img src="https://readme-typing-svg.herokuapp.com?lines=AWS+%7C+Terraform+%7C+Kubernetes;Docker+%7C+Jenkins+%7C+Ansible&center=true&width=500&height=45" />
 
+## ⚙️ Skills
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=AWS+%7C+Terraform+%7C+Kubernetes;Docker+%7C+Jenkins+%7C+Ansible;Linux+%7C+Git+%7C+GitHub" />
+</p>
+
+## ⚙️ Skills
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&pause=400&color=0ABAB5&center=true&width=650&lines=DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+with+Jenkins;Docker+%7C+Linux+%7C+Git" />
+</p>
+
+## ⚙️ Skills
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=1800&pause=300&color=F7A41D&center=true&width=550&lines=AWS;Terraform;Kubernetes;Docker;Jenkins;Ansible;Linux;Git" />
+</p>
+
+## ⚙️ Skills
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=500&color=36BCF7&center=true&width=650&lines=AWS+%7C+Terraform+%7C+Kubernetes;Docker+%7C+Jenkins+%7C+Ansible" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,jenkins,ansible,linux,git&theme=dark" />
+</p>
 
 
 ## 📈 GitHub Stats  
