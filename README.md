@@ -40,23 +40,11 @@ I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD autom
 
 Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud infrastructure, CI/CD automation, Kubernetes EKS, Terraform, Docker, and Linux. Strong expertise in building scalable, secure, and production ready cloud environments using Infrastructure as Code, reusable Terraform modules, Jenkins pipelines, and automated configuration management with Ansible. Skilled in optimizing Kubernetes workloads, implementing modern deployment strategies (Blue/Green, Canary), enhancing observability with Prometheus, Grafana and ensuring release reliability through DevSecOps practices. with CI/CD automation  
 
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=AWS+%7C+Terraform+%7C+Kubernetes;Docker+%7C+Jenkins+%7C+Ansible;Linux+%7C+Git+%7C+GitHub" />
-</p>
-
 ## ⚙️ Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&pause=400&color=0ABAB5&center=true&width=650&lines=DevOps+Engineer;AWS+%7C+Terraform+%7C+Kubernetes;CI%2FCD+with+Jenkins;Docker+%7C+Linux+%7C+Git" />
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=800&lines=AWS+%7C+Terraform+%7C+Kubernetes;Docker+%7C+Jenkins+%7C+Ans
 
-## ⚙️ Skills
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=16&duration=1800&pause=300&color=F7A41D&center=true&width=550&lines=AWS;Terraform;Kubernetes;Docker;Jenkins;Ansible;Linux;Git" />
-</p>
 
 
 
