@@ -47,11 +47,14 @@ Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud i
   <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,docker,kubernetes,linux,git,github,vscode&theme=dark" />
 </p>
 
-## ⚙️ Skills Showcase
+## ⚙️ Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,docker,kubernetes,linux,git,github,vscode" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,docker,kubernetes,linux,git&theme=dark" />
+
+
+## ⚙️ Skills
+
+<img src="https://readme-typing-svg.herokuapp.com?lines=AWS+%7C+Terraform+%7C+Kubernetes;Docker+%7C+Jenkins+%7C+Ansible&center=true&width=500&height=45" />
 
 
 
