@@ -19,6 +19,40 @@ I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD autom
 <img width="1071" height="687" alt="image" src="https://github.com/user-attachments/assets/8acd19bc-8ffa-41ef-a2a2-0e3024fb423a" />
 
 
+## ⚡ Tech Stack
+
+<!-- Cloud & OS -->
+### ☁️ Cloud Platform & OS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux&theme=dark" />
+</p>
+
+<!-- Scripting -->
+### 🧠 Scripting
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,python&theme=dark" />
+</p>
+
+<!-- DevOps & CI/CD -->
+### 🛠 DevOps & CI/CD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jenkins,githubactions&theme=dark" />
+</p>
+
+<!-- Containers -->
+### 🐳 Containers & Orchestration
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm&theme=dark" />
+</p>
+
+<!-- Infrastructure -->
+### 🧱 Infrastructure & Monitoring
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible,prometheus,grafana&theme=dark" />
+</p>
+
+
+
 
 
 ---
