@@ -41,6 +41,12 @@ I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD autom
 Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud infrastructure, CI/CD automation, Kubernetes EKS, Terraform, Docker, and Linux. Strong expertise in building scalable, secure, and production ready cloud environments using Infrastructure as Code, reusable Terraform modules, Jenkins pipelines, and automated configuration management with Ansible. Skilled in optimizing Kubernetes workloads, implementing modern deployment strategies (Blue/Green, Canary), enhancing observability with Prometheus, Grafana and ensuring release reliability through DevSecOps practices. with CI/CD automation  
 
 ----
+## ⚙️ Skills Showcase
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,jenkins,docker,kubernetes,linux,git,github,vscode&theme=dark" />
+</p>
+----
 
 ## 📈 GitHub Stats  
   
