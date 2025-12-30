@@ -76,6 +76,12 @@ Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud i
  
 [![GitHub Streak](https://streak-stats.vercel.app/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats)
 
+![Metrics](https://metrics.lecoq.io/Raidi-Kartheek)
+![Metrics](https://metrics.lecoq.io/Raidi-Kartheek?template=classic&isocalendar=1&languages=1&lines=1&activity=1&repositories=1&base.header=0)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raidi-Kartheek&theme=tokyonight)
+
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Raidi-Kartheek&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Raidi-Kartheek&theme=tokyonight)
 
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats) -->
