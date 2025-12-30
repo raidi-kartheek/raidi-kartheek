@@ -77,20 +77,20 @@ Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud i
 
 ## 📊 Contributions
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://ghchart.rshah.org/409ba5/Raidi-Kartheek" />
-</p>
+</p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Raidi-Kartheek&theme=github-dark&hide_border=true&ring_color=FFA500" />
-</p>
+</p> -->
 
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Raidi-Kartheek&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://ghchart.rshah.org/Raidi-Kartheek" />
-</p>
+</p> -->
 
 
 --- 
