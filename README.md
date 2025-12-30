@@ -80,6 +80,16 @@ Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud i
 ![Metrics](https://metrics.lecoq.io/Raidi-Kartheek?template=classic&isocalendar=1&languages=1&lines=1&activity=1&repositories=1&base.header=0)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats) -->
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Raidi-Kartheek&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raidi-Kartheek&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Raidi-Kartheek?template=classic&languages=1&activity=1&base.header=0&base.metadata=0" />
+</p>
+
 
 --- 
 
