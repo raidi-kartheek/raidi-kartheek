@@ -74,7 +74,7 @@ Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud i
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=Raidi-Kartheek&theme=tokyonight)](https://git.io/streak-stats) -->
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raidi-Kartheek
 &show_icons=true
 &bg_color=0D1117
 &title_color=ff8c00
@@ -83,7 +83,7 @@ Cloud & DevOps Engineer with 5.4 years of experience specializing in AWS cloud i
 &border_color=30363d
 &border_radius=15)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME
+![GitHub Streak](https://streak-stats.demolab.com?user=Raidi-Kartheek
 &theme=dark
 &background=0D1117
 &border_radius=12
