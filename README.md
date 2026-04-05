@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Raidi Kartheek  
 
 
-## 🚀  DevOps Engineer at Peritus Technologies  | Cloud | Automation | Kubernetes | Terraform  | CI-CD
+## 🚀  DevOps Engineer at Peritus Technologies   | Cloud | Automation | Kubernetes | Terraform  | CI-CD
 ---
 
 I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD automation specializing in
@@ -36,8 +36,8 @@ I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD autom
 
 ---
 
-# 💼 Work Highlights
-### 🏢  WV Automations Pvt.Ltd  
+# 💼 Work Experience
+### 🏢 Peritus Technologies  
 
 Cloud & DevOps Engineer with 5.9 years of experience specializing in AWS cloud infrastructure, CI/CD automation, Kubernetes EKS, Terraform, Docker, and Linux. Strong expertise in building scalable, secure, and production ready cloud environments using Infrastructure as Code, reusable Terraform modules, Jenkins pipelines, and automated configuration management with Ansible. Skilled in optimizing Kubernetes workloads, implementing modern deployment strategies (Blue/Green, Canary), enhancing observability with Prometheus, Grafana and ensuring release reliability through DevSecOps practices. with CI/CD automation  
 
