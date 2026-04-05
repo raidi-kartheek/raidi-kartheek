@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Raidi Kartheek  
 
 
-## 🚀  DevOps Engineer at WV Automations Pvt.Ltd | Cloud | Automation | Kubernetes | Terraform  | CI-CD
+## 🚀  DevOps Engineer at Peritus Technologies  | Cloud | Automation | Kubernetes | Terraform  | CI-CD
 ---
 
 I’m a passionate **DevOps & Cloud Engineer** experience AWS Cloud, CI/CD automation specializing in
